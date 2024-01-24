@@ -1,0 +1,14 @@
+Index: src/MondayPart2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class MondayPart2 {\n}\n
+===================================================================
+diff --git a/src/MondayPart2.java b/src/MondayPart2.java
+--- a/src/MondayPart2.java	
++++ b/src/MondayPart2.java	
+@@ -1,2 +1,5 @@
+ public class MondayPart2 {
++    public static void main(String[] args) {
++        System.out.println("Hello Monday class part 2");
++    }
+ }
